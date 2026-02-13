@@ -1,5 +1,6 @@
 
 ### Olá, me chamo  Danilo Gusmão Líns 👋
+PS: Esse perfil é usado tanto para projetos publicos, quanto para projetos privados 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/)
 
 ![daniloGlins GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloGlins&show_icons=true&theme=cobalt)<br>
