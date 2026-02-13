@@ -4,7 +4,7 @@ PS: Esse perfil é usado tanto para projetos publicos, quanto para projetos priv
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/)
 
 ![daniloGlins GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloGlins&show_icons=true&theme=cobalt)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloGlins)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloGlins)](https://github.com/anuraghazra/github-readme-stats) <br>
 
 ### Tecnologias que eu utilizo 
 <div style = "display: inline_block" ><br>
