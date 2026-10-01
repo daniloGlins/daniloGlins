@@ -20,11 +20,3 @@ Parte dos meus projetos está em repositórios privados. Por aqui também ficam 
     <tr><td><strong>Banco de dados</strong></td><td>MySQL</td></tr>
   </tbody>
 </table>
-
-## Alguns projetos públicos
-
-**[Projeto Pfon](https://github.com/daniloGlins/Projeto_Pfon)**<br />
-Projeto de troca e venda de produtos eletrônicos.
-
-**[Alloy Músicas](https://github.com/daniloGlins/Alloy-Musicas)**<br />
-Aplicação em Java sobre músicas e podcasts.
