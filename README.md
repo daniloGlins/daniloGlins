@@ -1,50 +1,53 @@
-# 👋 Olá, eu sou o Danilo Gusmão Líns
+<p align="center">
+  <img src="./assets/header.svg" alt="Danilo Gusmão Líns — Desenvolvedor de software. Da ideia ao sistema. Do backend à interface." width="100%" />
+</p>
 
-💻 Desenvolvedor focado em construir soluções eficientes e escaláveis  
-🚀 Apaixonado por tecnologia, performance e desenvolvimento de sistemas  
-📌 Este perfil reúne tanto projetos públicos quanto privados  
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/"><img src="./assets/linkedin.svg" alt="Conecte-se comigo no LinkedIn" height="30" /></a>
+  &nbsp;
+  <a href="https://github.com/daniloGlins?tab=repositories"><img src="./assets/github.svg" alt="Veja meus projetos no GitHub" height="30" /></a>
+</p>
 
----
+## Sobre mim
 
-## 🌐 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/)
+Sou **Danilo Gusmão Líns**, desenvolvedor de software com foco em aplicações web e sistemas.
 
----
+Trabalho do backend à interface, conectando regras de negócio, dados e experiência de uso. Tenho interesse em performance e em construir soluções que sejam simples de manter e possam evoluir.
 
-## 📊 Estatísticas GitHub
-<div align="center">
+## Tecnologias
 
-![Danilo GitHub stats](https://github-readme-stats.vercel.app/api?username=daniloGlins&show_icons=true&theme=cobalt&hide_border=true)
+**Interfaces**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daniloGlins&layout=compact&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="./assets/tech/react.svg" alt="React" height="30" />
+  <img src="./assets/tech/javascript.svg" alt="JavaScript" height="30" />
+  <img src="./assets/tech/html.svg" alt="HTML5" height="30" />
+  <img src="./assets/tech/css.svg" alt="CSS3" height="30" />
+  <img src="./assets/tech/inertia.svg" alt="Inertia.js" height="30" />
+</p>
 
-</div>
+**Backend**
 
----
+<p>
+  <img src="./assets/tech/node.svg" alt="Node.js" height="30" />
+  <img src="./assets/tech/php.svg" alt="PHP" height="30" />
+  <img src="./assets/tech/laravel.svg" alt="Laravel" height="30" />
+  <img src="./assets/tech/codeigniter.svg" alt="CodeIgniter" height="30" />
+</p>
 
-## 🛠️ Tecnologias que utilizo
+**Outras linguagens**
 
-<div style="display: inline_block"><br>
+<p>
+  <img src="./assets/tech/python.svg" alt="Python" height="30" />
+  <img src="./assets/tech/java.svg" alt="Java" height="30" />
+</p>
 
-<img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+**Banco de dados**
 
-<img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-<img align="center" alt="Inertia.js" src="https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white" />
+<p>
+  <img src="./assets/tech/mysql.svg" alt="MySQL" height="30" />
+</p>
 
-<img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img align="center" alt="CodeIgniter" src="https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+## Vamos conversar
 
-<img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-
-<img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-
-</div>
-
-
-</div>
-
+Para trocar ideias sobre desenvolvimento ou conversar sobre um projeto, me encontre no [LinkedIn](https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/).
