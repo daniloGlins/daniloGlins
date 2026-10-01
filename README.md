@@ -1,53 +1,30 @@
-<p align="center">
-  <img src="./assets/header.svg" alt="Danilo Gusmão Líns — Desenvolvedor de software. Da ideia ao sistema. Do backend à interface." width="100%" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header.svg" />
+  <img src="./assets/header.svg" alt="Danilo Gusmão Líns · Desenvolvedor de software" width="100%" />
+</picture>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/"><img src="./assets/linkedin.svg" alt="Conecte-se comigo no LinkedIn" height="30" /></a>
-  &nbsp;
-  <a href="https://github.com/daniloGlins?tab=repositories"><img src="./assets/github.svg" alt="Veja meus projetos no GitHub" height="30" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/) · [Repositórios](https://github.com/daniloGlins?tab=repositories)
 
-## Sobre mim
+Trabalho com desenvolvimento web, no backend e nas interfaces. Me interessam especialmente performance e desenvolvimento de sistemas.
 
-Sou **Danilo Gusmão Líns**, desenvolvedor de software com foco em aplicações web e sistemas.
-
-Trabalho do backend à interface, conectando regras de negócio, dados e experiência de uso. Tenho interesse em performance e em construir soluções que sejam simples de manter e possam evoluir.
+Parte dos meus projetos está em repositórios privados. Por aqui também ficam projetos públicos e estudos.
 
 ## Tecnologias
 
-**Interfaces**
+<table>
+  <tbody>
+    <tr><td><strong>Interfaces</strong></td><td>React, JavaScript, HTML, CSS, Inertia.js</td></tr>
+    <tr><td><strong>Backend</strong></td><td>Node.js, PHP, Laravel, CodeIgniter</td></tr>
+    <tr><td><strong>Outras linguagens</strong></td><td>Python, Java</td></tr>
+    <tr><td><strong>Banco de dados</strong></td><td>MySQL</td></tr>
+  </tbody>
+</table>
 
-<p>
-  <img src="./assets/tech/react.svg" alt="React" height="30" />
-  <img src="./assets/tech/javascript.svg" alt="JavaScript" height="30" />
-  <img src="./assets/tech/html.svg" alt="HTML5" height="30" />
-  <img src="./assets/tech/css.svg" alt="CSS3" height="30" />
-  <img src="./assets/tech/inertia.svg" alt="Inertia.js" height="30" />
-</p>
+## Alguns projetos públicos
 
-**Backend**
+**[Projeto Pfon](https://github.com/daniloGlins/Projeto_Pfon)**<br />
+Projeto de troca e venda de produtos eletrônicos.
 
-<p>
-  <img src="./assets/tech/node.svg" alt="Node.js" height="30" />
-  <img src="./assets/tech/php.svg" alt="PHP" height="30" />
-  <img src="./assets/tech/laravel.svg" alt="Laravel" height="30" />
-  <img src="./assets/tech/codeigniter.svg" alt="CodeIgniter" height="30" />
-</p>
-
-**Outras linguagens**
-
-<p>
-  <img src="./assets/tech/python.svg" alt="Python" height="30" />
-  <img src="./assets/tech/java.svg" alt="Java" height="30" />
-</p>
-
-**Banco de dados**
-
-<p>
-  <img src="./assets/tech/mysql.svg" alt="MySQL" height="30" />
-</p>
-
-## Vamos conversar
-
-Para trocar ideias sobre desenvolvimento ou conversar sobre um projeto, me encontre no [LinkedIn](https://www.linkedin.com/in/danilo-gusm%C3%A3o-43661b206/).
+**[Alloy Músicas](https://github.com/daniloGlins/Alloy-Musicas)**<br />
+Aplicação em Java sobre músicas e podcasts.
